@@ -1,4 +1,6 @@
-#!/Users/olivier/gemini-video-analyzer/.venv/bin/python3.11
+#!/bin/sh
+'''exec' "/Users/olivier/Dropbox/Main Files/Software Dev/Projects - Misc/gemini-video-analyzer/.venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

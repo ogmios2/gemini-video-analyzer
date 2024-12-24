@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/olivier/gemini-video-analyzer/.venv"
+VIRTUAL_ENV="/Users/olivier/Dropbox/Main Files/Software Dev/Projects - Misc/gemini-video-analyzer/.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

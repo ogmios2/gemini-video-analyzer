@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/olivier/gemini-video-analyzer/.venv"
+set -gx VIRTUAL_ENV "/Users/olivier/Dropbox/Main Files/Software Dev/Projects - Misc/gemini-video-analyzer/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
